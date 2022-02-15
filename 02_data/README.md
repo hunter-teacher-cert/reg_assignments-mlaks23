@@ -10,3 +10,5 @@ This lesson includes the lesson plan, presentation, dataset, code as a pyret fil
 4. US_Jobs(yourName).arr
 5. Use_Jobs_Pyret_File_Text.pdf
 6. US_Jobs_code_solution.pdf
+
+Note: In order to open the Pyret code, go to http://code.pyret.org and sign in. Then click on the link.
