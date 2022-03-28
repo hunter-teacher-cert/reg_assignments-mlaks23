@@ -8,6 +8,6 @@ Since the start of the Ukraine war 50,000 to 70,000 tech workers have fled Russi
 I think this is an effect of the war in Ukraine that is relevant to computer science and that students may not discuss in other classes. It shows how people in Russia are also affected by the actions of Putin.
 
 # Tech Websites
--https://www.wired.com/
--https://www.cnn.com/business/tech
--https://arstechnica.com/
+- https://www.wired.com/
+- https://www.cnn.com/business/tech
+- https://arstechnica.com/
